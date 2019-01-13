@@ -1,7 +1,10 @@
 //////////////////////////////////////////// 
-// See Murray et al. (Nature, 2018) for further information.
+// See Murray et al. (Nature, 2019) for further information.
 // Developed in Google Earth Engine:
 // https://code.earthengine.google.com
+// Cite:
+// Murray N. J., Phinn S. R., DeWitt M., Ferrari R., Johnston R., Lyons M. B., Clinton N., Thau D. & 
+// Fuller R. A. (2019) The global distribution and trajectory of tidal flats. *Nature*. 565, 222-225.
 //////////////////////////////////////////// 
 
 // 0. Global Variables

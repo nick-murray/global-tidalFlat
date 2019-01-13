@@ -2,7 +2,7 @@
 
 *See:*
 
-Murray N. J., Phinn S. R., DeWitt M., Ferrari R., Johnston R., Lyons M. B., Clinton N., Thau D. & Fuller R. A. (2018) The global distribution and trajectory of tidal flats. *Nature*.
+Murray N. J., Phinn S. R., DeWitt M., Ferrari R., Johnston R., Lyons M. B., Clinton N., Thau D. & Fuller R. A. (2019) The global distribution and trajectory of tidal flats. *Nature*. 565, 222-225.
 
 *Description:*
 * JavaScript Code developed in Google Earth Engine Code Editor (tidalFlat_Murray.js)
@@ -12,3 +12,6 @@ Murray N. J., Phinn S. R., DeWitt M., Ferrari R., Johnston R., Lyons M. B., Clin
 [https://www.murrayensis.org/](https://www.murrayensis.org/)
 
 Use of this code requires full attribution. Please cite the paper and refer to http://intertidal.app for further information.
+
+Citation: 
+Murray N. J., Phinn S. R., DeWitt M., Ferrari R., Johnston R., Lyons M. B., Clinton N., Thau D. & Fuller R. A. (2019) The global distribution and trajectory of tidal flats. *Nature*. 565, 222-225.
